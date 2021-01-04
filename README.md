@@ -1,7 +1,8 @@
 # python_begin
 python 基礎入門
 
-.環境
+環境
+
 github
 
 google collaboration 
