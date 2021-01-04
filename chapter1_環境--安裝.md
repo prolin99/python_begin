@@ -1,14 +1,22 @@
 ## 本機安裝
-Python (https://www.python.org/)
+Python  (https://www.python.org/)
 
 請下載 python3 (和 python 2 不相容）
 
 ### Vscode
+* https://code.visualstudio.com/
 
 ### 套件
+* Chinese (Traditional) Language Pack for VS Code 中文選單
+* Python extension for Visual Studio Code  可以執行、中斷點、查看值
+* Bracket Pair Colorizer  多括號以顏色區分
+* Indent-Rainbow  多色分辨內縮
+
 
 ## google collaboration
 * [什麼是 Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
+
+
 
 ## github
 * [Git 與 Github 版本控制基本指令與操作入門教學](https://blog.techbridge.cc/2018/01/17/learning-programming-and-coding-with-python-git-and-github-tutorial/)
