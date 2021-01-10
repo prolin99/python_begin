@@ -1,6 +1,11 @@
 # python_begin
 python 基礎入門
 
+新營高中 2021/1/25~2021/1/28
+
+> 請先確定 google  、 [github](https://github.com) 帳號
+
+> 上課以 google collaboration 做程式練習
 
 ## 練習題(曾龍教授)
 * [Python小測驗_100題](https://github.com/prolin99/nsjh/blob/main/week1/BasicPython/Y_1_Python%E5%B0%8F%E6%B8%AC%E9%A9%97_100%E9%A1%8C.md)
