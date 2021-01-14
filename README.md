@@ -12,8 +12,11 @@ python 基礎入門
 * [Python基礎程式題](https://github.com/prolin99/nsjh/blob/main/week1/BasicPython/Z_1_Python%E5%9F%BA%E7%A4%8E%E7%A8%8B%E5%BC%8F%E9%A1%8C.md)
 * [Python進階程式題](https://github.com/prolin99/nsjh/blob/main/week1/BasicPython/Z_2_Python%E9%80%B2%E9%9A%8E%E7%A8%8B%E5%BC%8F%E9%A1%8C.md)
 
-## APCS
+##  競賽網站
+[高中生程式解題系統](https://zerojudge.tw/)
+
 [APCS 大學程式設計先修檢測](https://apcs.csie.ntnu.edu.tw/)
+
 
 ## 尤拉解題 
 * [Project Euler ](https://projecteuler.net/about)
