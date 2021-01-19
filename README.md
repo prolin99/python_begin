@@ -1,7 +1,7 @@
 # python_begin
 python 基礎入門
 
-新營高中 2021/1/25~2021/1/28
+新營高中 2021/1/25~2021/1/28 冬令營
 
 > 請先確定 google  、 [github](https://github.com) 帳號
 
