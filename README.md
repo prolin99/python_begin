@@ -26,3 +26,4 @@ python 基礎入門
 
 ## 補充
 * [自學python教材](http://kaiching.org/pydoing/python.html)
+* [Python 查詢表](https://github.com/gto76/python-cheatsheet)常用程式碼
