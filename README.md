@@ -27,4 +27,4 @@ python 基礎入門
 ## 補充
 * [自學python教材](http://kaiching.org/pydoing/python.html)
 * [Python 查詢表](https://github.com/gto76/python-cheatsheet)常用程式碼
-* [打包用pyinstaller和 virtualenv](https://ithelp.ithome.com.tw/articles/10246744?sc=rss.iron) 把程式打包成執行檔 
+* [打包用pyinstaller和 virtualenv](https://ithelp.ithome.com.tw/articles/10246744?sc=rss.iron) 把程式打包成執行檔。使用  virtualenv 可以建個虚擬環境，只裝所需套件，在包裝成執行檔時，可以簡化問題並減少檔案大小。 
