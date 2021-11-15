@@ -1,6 +1,4 @@
 '''
-程式修改來源：https://changyy.pixnet.net/blog/post/27173459
-
 需安裝套件
 pip install pandas
 pip install openpyxl
@@ -11,7 +9,7 @@ import re
 import pandas as pd
 
 #你匯出的 iso 檔名放在這：
-m = MARC(['040001-043023'])
+m = MARC(['000001-010000'])
 
 
 
@@ -52,6 +50,8 @@ df2= df.T
 df2.to_excel('0000.xlsx' ,engine='xlsxwriter' )
 
 # 再檢查想要保留的必要欄位 ，存成 0001.xlsx
-df3 = df2[['010Ka','010Kd','200Ka','200Kf' , '200Kg','210Ka','210Kc' ,'210Kd','681Ka' ,'681Kb' , '805Kc','805Kd', '805Ke' , '805Ku', '805Kw' ,'805Kz' ]]
+#df3 = df2[['010Ka','101Ka','200Ka','200Kf' , '200Kg','210Ka','210Kc' ,'210Kd', '805Kc','805Kd', '805Ke' ,'805Kn','805Ks', '805Ku', '805Kw' ,'805Kz','410Ka' ]]
+df3 = df2[['010Ka','101Ka','200Ka','200Kf' , '200Kg','210Ka','210Kc' ,'210Kd', '805Kc','805Kd', '805Ke' ,'805Kn','805Ks', '805Ku', '805Kw' ,'805Kz' ]]
+
 df3.to_excel('0001.xlsx' ,engine='xlsxwriter' )
 print('其轉出 {} 筆記錄'.format(i))
